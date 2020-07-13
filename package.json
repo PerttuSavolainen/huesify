@@ -29,6 +29,6 @@
     "@types/node": "^12.12.5",
     "@types/request-promise-native": "^1.0.17",
     "@types/spotify-web-api-node": "^4.0.1",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   }
 }
